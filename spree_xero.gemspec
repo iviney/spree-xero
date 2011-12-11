@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.requirements << 'none'
 
-  s.add_dependency('spree_core', '>= 0.70.99')
+  s.add_dependency('spree_core', '>= 0.50.4')
   s.add_dependency('builder', '>= 2.1.2')
   s.add_dependency('xero_gateway', '>= 2.0.13')
 #  s.add_dependency('xeroizer', '>= 0.3.5')
